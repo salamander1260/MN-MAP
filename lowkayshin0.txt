@@ -1,0 +1,910 @@
+location	Latitude	Longitude
+Ada city	47.3	-96.52
+Adams city	43.57	-92.72
+Adrian city	43.63	-95.93
+Afton city	44.9	-92.82
+Aitkin city	46.53	-93.71
+Akeley city	47	-94.73
+Albany city	45.63	-94.57
+Albert Lea city	43.65	-93.36
+Alberta city	45.58	-96.05
+Albertville city	45.24	-93.66
+Alden city	43.67	-93.57
+Aldrich city	46.37	-94.94
+Alexandria city	45.87	-95.38
+Alpha city	43.64	-94.87
+Altura city	44.06	-91.94
+Alvarado city	48.19	-97
+Amboy city	43.89	-94.16
+Andover city	45.26	-93.33
+Angle Inlet	49.35	-95.07
+Annandale city	45.26	-94.12
+Anoka city	45.21	-93.39
+Apple Valley city	44.75	-93.2
+Appleton city	45.2	-96.02
+Arco city	44.38	-96.18
+Arden Hills city	45.07	-93.17
+Argyle city	48.33	-96.82
+Arlington city	44.61	-94.08
+Arnold	46.87	-92.11
+Ashby city	46.09	-95.82
+Askov city	46.19	-92.78
+Atwater city	45.14	-94.78
+Audubon city	46.86	-95.98
+Aurora city	47.53	-92.24
+Austin city	43.67	-92.97
+Avoca city	43.95	-95.65
+Avon city	45.61	-94.46
+Babbitt city	47.64	-91.95
+Backus city	46.82	-94.51
+Badger city	48.78	-96.02
+Bagley city	47.52	-95.4
+Baker	46.71	-96.56
+Balaton city	44.23	-95.87
+Ball Club	47.33	-93.95
+Barnesville city	46.65	-96.42
+Barnum city	46.51	-92.69
+Barrett city	45.91	-95.89
+Barry city	45.56	-96.56
+Battle Lake city	46.29	-95.72
+Baudette city	48.71	-94.59
+Baxter city	46.34	-94.28
+Bayport city	45.02	-92.78
+Beardsley city	45.56	-96.71
+Beaulieu	47.34	-95.81
+Beaver Bay city	47.26	-91.3
+Beaver Creek city	43.61	-96.36
+Becker city	45.38	-93.87
+Bejou city	47.44	-95.97
+Belgrade city	45.45	-95
+Belle Plaine city	44.62	-93.76
+Bellechester city	44.37	-92.51
+Bellingham city	45.14	-96.28
+Beltrami city	47.54	-96.53
+Belview city	44.61	-95.33
+Bemidji city	47.48	-94.88
+Bena city	47.34	-94.21
+Benson city	45.31	-95.61
+Bertha city	46.27	-95.06
+Bethel city	45.4	-93.27
+Big Falls city	48.18	-93.81
+Big Lake	46.7	-92.63
+Big Lake city	45.34	-93.74
+Bigelow city	43.51	-95.69
+Bigfork city	47.75	-93.65
+Bingham Lake city	43.91	-95.05
+Birchwood Village city	45.06	-92.98
+Bird Island city	44.76	-94.9
+Biscay city	44.83	-94.27
+Biwabik city	47.55	-92.32
+Blackduck city	47.73	-94.55
+Blaine city	45.17	-93.21
+Blomkest city	44.94	-95.02
+Blooming Prairie city	43.87	-93.06
+Bloomington city	44.83	-93.32
+Blue Earth city	43.64	-94.1
+Bluffton city	46.47	-95.23
+Bock city	45.78	-93.55
+Borup city	47.18	-96.51
+Bovey city	47.3	-93.4
+Bowlus city	45.82	-94.41
+Boy River city	47.17	-94.12
+Boyd city	44.85	-95.9
+Braham city	45.72	-93.17
+Brainerd city	46.36	-94.2
+Brandon city	45.97	-95.59
+Breckenridge city	46.27	-96.59
+Breezy Point city	46.61	-94.22
+Brewster city	43.7	-95.46
+Bricelyn city	43.56	-93.81
+Brook Park city	45.95	-93.07
+Brooklyn Center city	45.07	-93.32
+Brooklyn Park city	45.11	-93.35
+Brooks city	47.82	-96
+Brookston city	46.87	-92.6
+Brooten city	45.5	-95.12
+Browerville city	46.08	-94.86
+Browns Valley city	45.59	-96.83
+Brownsdale city	43.74	-92.87
+Brownsville city	43.7	-91.28
+Brownton city	44.73	-94.35
+Bruno city	46.28	-92.67
+Buckman city	45.9	-94.09
+Buffalo city	45.18	-93.87
+Buffalo Lake city	44.74	-94.62
+Buhl city	47.5	-92.77
+Burnsville city	44.76	-93.28
+Burtrum city	45.87	-94.69
+Butterfield city	43.96	-94.79
+Byron city	44.04	-92.64
+Caledonia city	43.63	-91.5
+Callaway city	46.98	-95.91
+Calumet city	47.32	-93.27
+Cambridge city	45.56	-93.23
+Campbell city	46.1	-96.41
+Canby city	44.71	-96.27
+Cannon Falls city	44.51	-92.9
+Canton city	43.53	-91.93
+Carlos city	45.97	-95.29
+Carlton city	46.66	-92.42
+Carver city	44.76	-93.63
+Cass Lake city	47.38	-94.6
+Cedar Mills city	44.94	-94.52
+Center City city	45.39	-92.81
+Centerville city	45.16	-93.05
+Ceylon city	43.53	-94.63
+Champlin city	45.17	-93.39
+Chandler city	43.93	-95.95
+Chanhassen city	44.85	-93.56
+Chaska city	44.82	-93.61
+Chatfield city	43.84	-92.18
+Chickamaw Beach city	46.75	-94.38
+Chisago City city	45.35	-92.91
+Chisholm city	47.49	-92.88
+Chokio city	45.57	-96.17
+Circle Pines city	45.14	-93.15
+Clara City city	44.96	-95.37
+Claremont city	44.05	-93
+Clarissa city	46.13	-94.95
+Clarkfield city	44.79	-95.81
+Clarks Grove city	43.76	-93.33
+Clear Lake city	45.45	-94
+Clearbrook city	47.7	-95.43
+Clearwater city	45.41	-94.04
+Clements city	44.38	-95.05
+Cleveland city	44.32	-93.84
+Climax city	47.61	-96.81
+Clinton city	45.46	-96.44
+Clitherall city	46.27	-95.63
+Clontarf city	45.38	-95.68
+Cloquet city	46.72	-92.49
+Coates city	44.72	-93.03
+Cobden city	44.28	-94.85
+Cohasset city	47.24	-93.64
+Cokato city	45.08	-94.19
+Cold Spring city	45.46	-94.43
+Coleraine city	47.27	-93.45
+Cologne city	44.77	-93.79
+Columbia Heights city	45.05	-93.25
+Columbus city	45.27	-93.08
+Comfrey city	44.11	-94.9
+Comstock city	46.66	-96.75
+Conger city	43.61	-93.53
+Cook city	47.84	-92.69
+Coon Rapids city	45.18	-93.31
+Corcoran city	45.11	-93.58
+Correll city	45.23	-96.16
+Cosmos city	44.94	-94.69
+Cottage Grove city	44.82	-92.93
+Cottonwood city	44.61	-95.67
+Courtland city	44.27	-94.35
+Cromwell city	46.68	-92.87
+Crookston city	47.77	-96.61
+Crosby city	46.49	-93.96
+Crosslake city	46.68	-94.1
+Crystal city	45.04	-93.36
+Currie city	44.07	-95.67
+Cuyuna city	46.51	-93.93
+Cyrus city	45.61	-95.74
+Dakota city	43.91	-91.36
+Dalton city	46.17	-95.92
+Danube city	44.79	-95.1
+Danvers city	45.28	-95.76
+Darfur city	44.05	-94.84
+Darwin city	45.1	-94.41
+Dassel city	45.08	-94.31
+Dawson city	44.93	-96.05
+Dayton city	45.19	-93.48
+De Graff city	45.26	-95.47
+Deephaven city	44.93	-93.52
+Deer Creek city	46.39	-95.32
+Deer River city	47.34	-93.8
+Deerwood city	46.47	-93.9
+Delano city	45.04	-93.79
+Delavan city	43.77	-94.02
+Delhi city	44.6	-95.21
+Dellwood city	45.1	-92.97
+Denham city	46.36	-92.94
+Dennison city	44.41	-93.03
+Dent city	46.55	-95.72
+Detroit Lakes city	46.8	-95.84
+Dexter city	43.72	-92.7
+Dilworth city	46.88	-96.7
+Dodge Center city	44.03	-92.85
+Donaldson city	48.58	-96.9
+Donnelly city	45.69	-96.01
+Doran city	46.19	-96.49
+Dover city	43.97	-92.13
+Dovray city	44.05	-95.55
+Duluth city	46.78	-92.12
+Dumont city	45.72	-96.42
+Dundas city	44.43	-93.2
+Dundee city	43.84	-95.47
+Dunnell city	43.56	-94.77
+Eagan city	44.82	-93.16
+Eagle Bend city	46.16	-95.03
+Eagle Lake city	44.16	-93.88
+East Bethel city	45.36	-93.2
+East Grand Forks city	47.93	-97.01
+East Gull Lake city	46.41	-94.36
+Easton city	43.77	-93.9
+Ebro	47.49	-95.54
+Echo city	44.62	-95.41
+Eden Prairie city	44.85	-93.46
+Eden Valley city	45.33	-94.55
+Edgerton city	43.88	-96.13
+Edina city	44.89	-93.36
+Effie city	47.84	-93.64
+Eitzen city	43.51	-91.46
+Elba city	44.09	-92.02
+Elbow Lake	47.15	-95.54
+Elbow Lake city	45.99	-95.98
+Elgin city	44.13	-92.25
+Elizabeth city	46.38	-96.13
+Elk River city	45.33	-93.57
+Elko New Market city	44.57	-93.34
+Elkton city	43.66	-92.71
+Ellendale city	43.87	-93.3
+Ellsworth city	43.52	-96.02
+Elmdale city	45.83	-94.49
+Elmore city	43.51	-94.09
+Elrosa city	45.56	-94.95
+Ely city	47.91	-91.85
+Elysian city	44.21	-93.68
+Emily city	46.76	-93.97
+Emmons city	43.51	-93.49
+Erhard city	46.48	-96.1
+Erskine city	47.67	-96.02
+Esko	46.71	-92.37
+Evan city	44.35	-94.84
+Evansville city	46.01	-95.69
+Eveleth city	47.46	-92.54
+Excelsior city	44.9	-93.57
+Eyota city	43.99	-92.23
+Fairfax city	44.53	-94.72
+Fairhaven	45.32	-94.2
+Fairmont city	43.64	-94.46
+Falcon Heights city	44.99	-93.18
+Faribault city	44.3	-93.28
+Farmington city	44.66	-93.17
+Farwell city	45.75	-95.62
+Federal Dam city	47.24	-94.21
+Felton city	47.07	-96.51
+Fergus Falls city	46.29	-96.08
+Fertile city	47.53	-96.29
+Fifty Lakes city	46.76	-94.09
+Finland	47.44	-91.27
+Finlayson city	46.21	-92.92
+Fish Lake	43.84	-95.05
+Fisher city	47.8	-96.8
+Flensburg city	45.95	-94.53
+Floodwood city	46.92	-92.92
+Florence city	44.24	-96.05
+Foley city	45.66	-93.91
+Forada city	45.79	-95.36
+Forest Lake city	45.25	-92.96
+Foreston city	45.73	-93.71
+Fort Ripley city	46.17	-94.36
+Fosston city	47.58	-95.76
+Fountain city	43.74	-92.13
+Foxhome city	46.28	-96.31
+Franklin city	44.53	-94.89
+Frazee city	46.73	-95.7
+Freeborn city	43.77	-93.56
+Freeport city	45.66	-94.69
+Fridley city	45.08	-93.26
+Frontenac	44.51	-92.35
+Frost city	43.58	-93.93
+Fulda city	43.87	-95.6
+Funkley city	47.79	-94.43
+Garden City	44.05	-94.17
+Garfield city	45.94	-95.49
+Garrison city	46.3	-93.83
+Garvin city	44.21	-95.76
+Gary city	47.37	-96.27
+Gaylord city	44.56	-94.21
+Gem Lake city	45.06	-93.04
+Geneva city	43.82	-93.27
+Genola city	45.97	-94.11
+Georgetown city	47.08	-96.8
+Ghent city	44.51	-95.89
+Gibbon city	44.54	-94.52
+Gilbert city	47.49	-92.46
+Gilman city	45.74	-93.95
+Glencoe city	44.77	-94.15
+Glenville city	43.57	-93.28
+Glenwood city	45.65	-95.36
+Glyndon city	46.87	-96.58
+Golden Valley city	44.99	-93.36
+Gonvick city	47.74	-95.51
+Good Thunder city	44.01	-94.07
+Goodhue city	44.4	-92.63
+Goodridge city	48.14	-95.8
+Goodview city	44.07	-91.72
+Graceville city	45.57	-96.44
+Granada city	43.69	-94.35
+Grand Marais city	47.76	-90.34
+Grand Meadow city	43.71	-92.57
+Grand Rapids city	47.24	-93.53
+Granite Falls city	44.81	-95.54
+Grant city	45.08	-92.91
+Grasston city	45.8	-93.15
+Green Isle city	44.68	-94.01
+Greenbush city	48.7	-96.18
+Greenfield city	45.1	-93.69
+Greenwald city	45.6	-94.86
+Greenwood city	44.91	-93.55
+Grey Eagle city	45.82	-94.75
+Grove City city	45.15	-94.68
+Grygla city	48.3	-95.62
+Gully city	47.77	-95.62
+Hackensack city	46.93	-94.52
+Hadley city	44	-95.86
+Hallock city	48.77	-96.94
+Halma city	48.66	-96.6
+Halstad city	47.35	-96.82
+Ham Lake city	45.25	-93.2
+Hamburg city	44.73	-93.96
+Hammond city	44.22	-92.37
+Hampton city	44.61	-93
+Hancock city	45.5	-95.8
+Hanley Falls city	44.69	-95.62
+Hanover city	45.16	-93.66
+Hanska city	44.15	-94.49
+Harding city	46.12	-94.04
+Hardwick city	43.77	-96.2
+Harmony city	43.55	-92.01
+Harris city	45.6	-92.99
+Hartland city	43.8	-93.49
+Hastings city	44.73	-92.85
+Hatfield city	43.95	-96.19
+Hawley city	46.88	-96.32
+Hayfield city	43.89	-92.85
+Hayward city	43.65	-93.25
+Hazel Run city	44.75	-95.72
+Hector city	44.74	-94.71
+Heidelberg city	44.49	-93.63
+Henderson city	44.53	-93.91
+Hendricks city	44.51	-96.43
+Hendrum city	47.26	-96.81
+Henning city	46.32	-95.44
+Henriette city	45.87	-93.12
+Herman city	45.81	-96.14
+Hermantown city	46.81	-92.24
+Heron Lake city	43.8	-95.32
+Hewitt city	46.32	-95.09
+Hibbing city	47.4	-92.95
+Hill City city	46.98	-93.6
+Hillman city	46.01	-93.89
+Hills city	43.53	-96.36
+Hilltop city	45.05	-93.25
+Hinckley city	46.01	-92.93
+Hitterdal city	46.98	-96.26
+Hoffman city	45.83	-95.79
+Hokah city	43.76	-91.35
+Holdingford city	45.73	-94.47
+Holland city	44.09	-96.19
+Hollandale city	43.76	-93.2
+Holloway city	45.24	-95.91
+Holt city	48.29	-96.19
+Homer	44.01	-91.56
+Hopkins city	44.93	-93.41
+Houston city	43.76	-91.57
+Howard Lake city	45.06	-94.07
+Hoyt Lakes city	47.56	-92.12
+Hugo city	45.17	-92.96
+Humboldt city	48.92	-97.09
+Hutchinson city	44.89	-94.38
+Ihlen city	43.91	-96.37
+Independence city	45.02	-93.71
+Inger	47.56	-93.98
+International Falls city	48.59	-93.41
+Inver Grove Heights city	44.82	-93.06
+Iona city	43.91	-95.79
+Iron Junction city	47.42	-92.61
+Ironton city	46.48	-94
+Isanti city	45.49	-93.24
+Isle city	46.14	-93.46
+Ivanhoe city	44.47	-96.25
+Jackson city	43.63	-94.99
+Janesville city	44.12	-93.71
+Jasper city	43.85	-96.4
+Jeffers city	44.06	-95.2
+Jenkins city	46.65	-94.33
+Johnson city	45.57	-96.29
+Jordan city	44.66	-93.64
+Kandiyohi city	45.13	-94.93
+Karlstad city	48.58	-96.52
+Kasota city	44.29	-93.97
+Kasson city	44.03	-92.75
+Keewatin city	47.4	-93.08
+Kelliher city	47.94	-94.45
+Kellogg city	44.31	-92
+Kennedy city	48.64	-96.91
+Kenneth city	43.75	-96.07
+Kensington city	45.78	-95.7
+Kent city	46.44	-96.68
+Kenyon city	44.27	-92.99
+Kerkhoven city	45.19	-95.32
+Kerrick city	46.34	-92.58
+Kettle River city	46.49	-92.88
+Kiester city	43.54	-93.71
+Kilkenny city	44.32	-93.57
+Kimball city	45.31	-94.3
+Kinbrae city	43.83	-95.48
+Kingston city	45.2	-94.31
+Kinney city	47.52	-92.72
+La Crescent city	43.83	-91.3
+La Prairie city	47.23	-93.49
+La Salle city	44.07	-94.57
+Lafayette city	44.45	-94.39
+Lake Benton city	44.26	-96.29
+Lake Bronson city	48.73	-96.66
+Lake City city	44.45	-92.28
+Lake Crystal city	44.11	-94.22
+Lake Elmo city	44.99	-92.9
+Lake George	47.19	-94.98
+Lake Henry city	45.46	-94.8
+Lake Lillian city	44.95	-94.88
+Lake Park city	46.88	-96.1
+Lake Shore city	46.5	-94.36
+Lake St. Croix Beach city	44.92	-92.77
+Lake Wilson city	44	-95.95
+Lakefield city	43.68	-95.17
+Lakeland city	44.95	-92.77
+Lakeland Shores city	44.95	-92.76
+	 	
+Location	Latitude	Longitude
+Lakeville city	44.68	-93.25
+Lamberton city	44.23	-95.27
+Lancaster city	48.86	-96.8
+Landfall city	44.95	-92.98
+Lanesboro city	43.72	-91.97
+Lansing	43.75	-92.97
+Laporte city	47.21	-94.76
+Lastrup city	46.04	-94.06
+Lauderdale city	44.99	-93.2
+Le Center city	44.39	-93.73
+Le Roy city	43.51	-92.51
+Le Sueur city	44.47	-93.9
+Lengby city	47.51	-95.63
+Leonard city	47.65	-95.27
+Leonidas city	47.47	-92.57
+Leota	43.83	-96.02
+Lester Prairie city	44.88	-94.04
+Lewiston city	43.98	-91.87
+Lewisville city	43.92	-94.44
+Lexington city	45.14	-93.17
+Lilydale city	44.91	-93.13
+Lindstrom city	45.39	-92.85
+Lino Lakes city	45.17	-93.08
+Lismore city	43.75	-95.95
+Litchfield city	45.12	-94.53
+Little Canada city	45.02	-93.09
+Little Falls city	45.98	-94.36
+Little Rock	47.87	-95.11
+Littlefork city	48.4	-93.56
+Long Beach city	45.65	-95.43
+Long Lake city	44.98	-93.57
+Long Prairie city	45.98	-94.86
+Longville city	46.99	-94.21
+Lonsdale city	44.48	-93.42
+Loretto city	45.05	-93.63
+Louisburg city	45.16	-96.17
+Lowry city	45.71	-95.52
+Lucan city	44.41	-95.41
+Lutsen	47.67	-90.69
+Luverne city	43.65	-96.21
+Lyle city	43.51	-92.94
+Lynd city	44.4	-95.88
+Mabel city	43.52	-91.77
+Madelia city	44.05	-94.42
+Madison city	45.01	-96.19
+Madison Lake city	44.2	-93.82
+Magnolia city	43.64	-96.08
+Mahnomen	46.77	-92.54
+Mahnomen city	47.31	-95.97
+Mahtomedi city	45.06	-92.97
+Mahtowa	46.56	-92.63
+Manchester city	43.73	-93.45
+Manhattan Beach city	46.73	-94.14
+Mankato city	44.17	-93.98
+Mantorville city	44.07	-92.75
+Maple Grove city	45.11	-93.46
+Maple Lake city	45.23	-94.01
+Maple Plain city	45.01	-93.66
+Mapleton city	43.93	-93.95
+Mapleview city	43.69	-92.97
+Maplewood city	44.98	-93.02
+Marble city	47.33	-93.29
+Marietta city	45.01	-96.42
+Marine on St. Croix city	45.2	-92.78
+Marshall city	44.45	-95.79
+Martin Lake	45.38	-93.09
+Mayer city	44.89	-93.89
+Maynard city	44.91	-95.47
+Mazeppa city	44.27	-92.54
+McGrath city	46.24	-93.27
+McGregor city	46.61	-93.31
+McIntosh city	47.64	-95.89
+McKinley city	47.51	-92.41
+Meadowlands city	47.07	-92.73
+Medford city	44.17	-93.25
+Medicine Lake city	45	-93.42
+Medina city	45.03	-93.58
+Meire Grove city	45.63	-94.87
+Melrose city	45.68	-94.81
+Menahga city	46.75	-95.1
+Mendota city	44.89	-93.16
+Mendota Heights city	44.88	-93.14
+Mentor city	47.7	-96.14
+Merrifield	46.47	-94.17
+Middle River city	48.43	-96.16
+Midway	47.32	-95.78
+Miesville city	44.6	-92.82
+Milaca city	45.76	-93.65
+Milan city	45.11	-95.91
+Millerville city	46.07	-95.56
+Millville city	44.24	-92.3
+Milroy city	44.42	-95.55
+Miltona city	46.05	-95.29
+Minneapolis city	44.96	-93.27
+Minneiska city	44.2	-91.87
+Minneota city	44.56	-95.98
+Minnesota City city	44.09	-91.75
+Minnesota Lake city	43.84	-93.83
+Minnetonka Beach city	44.94	-93.59
+Minnetonka city	44.93	-93.46
+Minnetrista city	44.94	-93.71
+Mizpah city	47.92	-94.21
+Montevideo city	44.95	-95.72
+Montgomery city	44.44	-93.58
+Monticello city	45.3	-93.8
+Montrose city	45.07	-93.92
+Moorhead city	46.86	-96.74
+Moose Lake city	46.45	-92.76
+Mora city	45.88	-93.29
+Morgan city	44.42	-94.92
+Morris city	45.59	-95.9
+Morristown city	44.22	-93.44
+Morton city	44.55	-94.98
+Motley city	46.33	-94.64
+Mound city	44.93	-93.66
+Mounds View city	45.11	-93.21
+Mountain Iron city	47.55	-92.63
+Mountain Lake city	43.94	-94.93
+Murdock city	45.22	-95.39
+Myrtle city	43.56	-93.16
+Nashua city	46.04	-96.31
+Nashwauk city	47.38	-93.17
+Nassau city	45.07	-96.44
+Naytahwaush	47.27	-95.63
+Nelson city	45.89	-95.26
+Nerstrand city	44.34	-93.06
+Nett Lake	48.11	-93.08
+Nevis city	46.96	-94.84
+New Auburn city	44.67	-94.23
+New Brighton city	45.07	-93.21
+New Germany city	44.89	-93.97
+New Hope city	45.04	-93.39
+New London city	45.3	-94.95
+New Munich city	45.63	-94.75
+New Prague city	44.55	-93.58
+New Richland city	43.89	-93.49
+New Trier city	44.6	-92.93
+New Ulm city	44.31	-94.47
+New York Mills city	46.52	-95.37
+Newfolden city	48.36	-96.33
+Newport city	44.87	-93
+Nicollet city	44.27	-94.19
+Nielsville city	47.53	-96.82
+Nimrod city	46.64	-94.88
+Nisswa city	46.5	-94.3
+Norcross city	45.87	-96.2
+North Branch city	45.51	-92.96
+North Mankato city	44.18	-94.04
+North Oaks city	45.1	-93.09
+North River city	46.95	-96.8
+North St. Paul city	45.01	-93
+Northfield city	44.46	-93.17
+Northome city	47.88	-94.27
+Northrop city	43.74	-94.44
+Norwood Young America city	44.77	-93.92
+Nowthen city	45.34	-93.45
+Oak Grove city	45.34	-93.33
+Oak Park Heights city	45.03	-92.82
+Oakdale city	44.99	-92.96
+Oakport	46.94	-96.77
+Odessa city	45.26	-96.33
+Odin city	43.87	-94.74
+Ogema city	47.1	-95.92
+Ogilvie city	45.83	-93.42
+Okabena city	43.74	-95.32
+Oklee city	47.84	-95.85
+Olivia city	44.78	-95
+Onamia city	46.07	-93.67
+Ormsby city	43.85	-94.7
+Orono city	44.96	-93.59
+Oronoco city	44.16	-92.54
+Orr city	48.06	-92.82
+Ortonville city	45.3	-96.44
+Osage	46.93	-95.26
+Osakis city	45.86	-95.15
+Oslo city	48.2	-97.13
+Osseo city	45.12	-93.4
+Ostrander city	43.61	-92.43
+Otsego city	45.27	-93.62
+Ottertail city	46.43	-95.56
+Owatonna city	44.09	-93.23
+Palisade city	46.71	-93.49
+Park Rapids city	46.92	-95.06
+Parkers Prairie city	46.15	-95.33
+Paynesville city	45.38	-94.72
+Pease city	45.7	-93.65
+Pelican Rapids city	46.57	-96.09
+Pemberton city	44.01	-93.78
+Pennock city	45.15	-95.17
+Pequot Lakes city	46.59	-94.3
+Perham city	46.6	-95.57
+Perley city	47.18	-96.8
+Peterson city	43.79	-91.83
+Pierz city	45.98	-94.1
+Pillager city	46.33	-94.48
+Pine Bend	47.42	-95.6
+Pine City city	45.83	-92.97
+Pine Island city	44.2	-92.62
+Pine Point	46.99	-95.39
+Pine River city	46.72	-94.4
+Pine Springs city	45.04	-92.95
+Pipestone city	44	-96.31
+Plainview city	44.16	-92.17
+Plato city	44.77	-94.04
+Plummer city	47.92	-96.04
+Plymouth city	45.02	-93.46
+Ponemah	48.03	-94.9
+Porter city	44.64	-96.17
+Preston city	43.67	-92.08
+Princeton city	45.57	-93.59
+Prinsburg city	44.93	-95.19
+Prior Lake city	44.73	-93.44
+Proctor city	46.74	-92.23
+Quamba city	45.92	-93.17
+Racine city	43.78	-92.48
+Ramsey city	45.26	-93.45
+Randall city	46.09	-94.5
+Randolph city	44.53	-93.02
+Ranier city	48.61	-93.35
+Raymond city	45.02	-95.24
+Red Lake	47.87	-95.01
+Red Lake Falls city	47.88	-96.27
+Red Wing city	44.58	-92.6
+Redby	47.87	-94.92
+Redwood Falls city	44.55	-95.1
+Regal city	45.41	-94.84
+Remer city	47.06	-93.91
+Renville city	44.79	-95.21
+Revere city	44.22	-95.36
+Rice city	45.75	-94.23
+Rice Lake	47.39	-95.52
+Richfield city	44.88	-93.28
+Richmond city	45.46	-94.52
+Richville city	46.51	-95.63
+Riverland	47.32	-95.95
+Riverton city	46.46	-94.05
+Robbinsdale city	45.03	-93.33
+Rochester city	44.02	-92.48
+Rock Creek city	45.76	-92.91
+Rockford city	45.09	-93.74
+Rockville city	45.46	-94.32
+Rogers city	45.19	-93.55
+Rollingstone city	44.1	-91.82
+Ronneby	45.69	-93.86
+Roosevelt city	48.81	-95.1
+Roscoe city	45.43	-94.64
+Rose Creek city	43.6	-92.83
+Roseau city	48.84	-95.76
+Rosemount city	44.75	-93.07
+Roseville city	45.02	-93.15
+Rothsay city	46.47	-96.28
+Round Lake city	43.54	-95.47
+Roy Lake	47.32	-95.54
+Royalton city	45.83	-94.29
+Rush City city	45.69	-92.97
+Rushford city	43.81	-91.75
+Rushford Village city	43.8	-91.79
+Rushmore city	43.62	-95.8
+Russell city	44.32	-95.95
+Ruthton city	44.18	-96.1
+Rutledge city	46.26	-92.87
+Sabin city	46.78	-96.65
+Sacred Heart city	44.78	-95.35
+Sanborn city	44.21	-95.13
+Sandstone city	46.13	-92.86
+Sargeant city	43.81	-92.8
+Sartell city	45.62	-94.22
+Sauk Centre city	45.74	-94.95
+Sauk Rapids city	45.6	-94.15
+Savage city	44.75	-93.36
+Scandia city	45.25	-92.83
+Scanlon city	46.71	-92.43
+Seaforth city	44.48	-95.33
+Searles	44.23	-94.44
+Sebeka city	46.63	-95.09
+Sedan city	45.58	-95.24
+Shafer city	45.39	-92.75
+Shakopee city	44.77	-93.48
+Shelly city	47.46	-96.82
+Sherburn city	43.65	-94.73
+Shevlin city	47.53	-95.26
+Shoreview city	45.08	-93.14
+Shorewood city	44.92	-93.57
+Silver Bay city	47.29	-91.28
+Silver Creek	45.31	-93.98
+Silver Lake city	44.9	-94.2
+Skyline city	44.14	-94.03
+Slayton city	43.99	-95.76
+Sleepy Eye city	44.3	-94.72
+Sobieski city	45.92	-94.48
+Solway city	47.52	-95.13
+Soudan	47.81	-92.24
+South End	47.32	-95.48
+South Haven city	45.29	-94.22
+South St. Paul city	44.89	-93.04
+Spicer city	45.23	-94.94
+Spring Grove city	43.56	-91.64
+Spring Hill city	45.52	-94.83
+Spring Lake Park city	45.12	-93.25
+Spring Park city	44.94	-93.63
+Spring Valley city	43.69	-92.39
+Springfield city	44.24	-94.98
+Squaw Lake city	47.63	-94.14
+St. Anthony city	45.03	-93.22
+St. Anthony city	45.69	-94.61
+St. Augusta city	45.45	-94.2
+St. Bonifacius city	44.91	-93.75
+St. Charles city	43.97	-92.06
+St. Clair city	44.08	-93.86
+St. Cloud city	45.53	-94.17
+St. Francis city	45.4	-93.39
+St. Hilaire city	48.01	-96.21
+St. James city	43.98	-94.63
+St. Joseph city	45.56	-94.31
+St. Leo city	44.72	-96.05
+St. Louis Park city	44.95	-93.37
+St. Martin city	45.5	-94.67
+St. Marys Point city	44.91	-92.77
+St. Michael city	45.2	-93.69
+St. Paul city	44.95	-93.1
+St. Paul Park city	44.84	-92.99
+St. Peter city	44.33	-93.96
+St. Rosa city	45.73	-94.72
+St. Stephen city	45.7	-94.27
+St. Vincent city	48.97	-97.23
+Stacy city	45.38	-92.99
+Stanchfield	45.66	-93.18
+Staples city	46.37	-94.8
+Starbuck city	45.61	-95.53
+Steen city	43.51	-96.26
+Stephen city	48.45	-96.88
+Stewart city	44.72	-94.49
+Stewartville city	43.86	-92.49
+Stillwater city	45.06	-92.83
+Stockton city	44.03	-91.77
+Storden city	44.04	-95.32
+Strandquist city	48.49	-96.45
+Strathcona city	48.55	-96.17
+Sturgeon Lake city	46.39	-92.82
+Sunburg city	45.35	-95.24
+Sunfish Lake city	44.87	-93.09
+Swanville city	45.92	-94.64
+Taconite city	47.33	-93.36
+Tamarack city	46.65	-93.13
+Taopi city	43.56	-92.64
+Taunton city	44.59	-96.06
+Taylors Falls city	45.41	-92.67
+Tenney city	46.04	-96.45
+Tenstrike city	47.66	-94.68
+The Lakes	44.14	-95.71
+The Ranch	47.32	-95.7
+Thief River Falls city	48.11	-96.18
+Thomson city	46.67	-92.39
+Tintah city	46.01	-96.32
+Tonka Bay city	44.92	-93.59
+Tower city	47.81	-92.28
+Tracy city	44.24	-95.62
+Trail city	47.78	-95.7
+Trimont city	43.76	-94.72
+Trommald city	46.51	-94.02
+Trosky city	43.89	-96.25
+Truman city	43.83	-94.44
+Turtle River city	47.59	-94.76
+Twin Lakes	47.23	-95.66
+Twin Lakes city	43.56	-93.42
+Twin Valley city	47.26	-96.26
+Two Harbors city	47.03	-91.67
+Tyler city	44.28	-96.14
+Ulen city	47.08	-96.26
+Underwood city	46.29	-95.87
+Upsala city	45.81	-94.57
+Urbank city	46.12	-95.51
+Utica city	43.98	-91.95
+Vadnais Heights city	45.06	-93.07
+Vergas city	46.65	-95.8
+Vermillion city	44.67	-92.96
+Verndale city	46.4	-95.01
+Vernon Center city	43.96	-94.17
+Vesta city	44.51	-95.41
+Victoria city	44.87	-93.66
+Viking city	48.22	-96.41
+Villard city	45.71	-95.27
+Vineland	46.18	-93.78
+Vining city	46.26	-95.53
+Virginia city	47.52	-92.51
+Wabasha city	44.37	-92.04
+Wabasso city	44.4	-95.26
+Waconia city	44.84	-93.79
+Wadena city	46.45	-95.13
+Wahkon city	46.12	-93.52
+Waite Park city	45.53	-94.24
+Waldorf city	43.93	-93.7
+Walker city	47.09	-94.59
+Walnut Grove city	44.22	-95.47
+Walters city	43.6	-93.67
+Waltham city	43.82	-92.87
+Wanamingo city	44.3	-92.79
+Wanda city	44.31	-95.21
+Warba city	47.14	-93.27
+Warren city	48.19	-96.77
+Warroad city	48.92	-95.33
+Warsaw	44.25	-93.38
+Waseca city	44.08	-93.5
+Watertown city	44.96	-93.84
+Waterville city	44.22	-93.57
+Watkins city	45.32	-94.41
+Watson city	45.01	-95.8
+Waubun city	47.18	-95.94
+Waverly city	45.07	-93.97
+Wayzata city	44.97	-93.51
+Welcome city	43.67	-94.61
+Wells city	43.74	-93.73
+Wendell city	46.04	-96.1
+West Concord city	44.15	-92.9
+West Roy Lake	47.31	-95.6
+West St. Paul city	44.9	-93.09
+West Union city	45.8	-95.09
+Westbrook city	44.04	-95.44
+Westport city	45.71	-95.17
+Whalan city	43.73	-91.92
+Wheaton city	45.81	-96.5
+Whipholt	47.04	-94.39
+White Bear Lake city	45.07	-93.01
+White Earth	47.1	-95.84
+Wilder city	43.83	-95.21
+Willernie city	45.05	-92.96
+Williams city	48.77	-94.95
+Willmar city	45.12	-95.06
+Willow River city	46.32	-92.84
+Wilmont city	43.76	-95.83
+Wilton city	47.51	-95
+Windom city	43.87	-95.12
+Winger city	47.54	-95.99
+Winnebago city	43.76	-94.17
+Winona city	44.05	-91.67
+Winsted city	44.96	-94.05
+Winthrop city	44.54	-94.36
+Winton city	47.93	-91.8
+Wolf Lake city	46.81	-95.35
+Wolverton city	46.56	-96.74
+Wood Lake city	44.65	-95.54
+Woodbury city	44.91	-92.92
+Woodland city	44.95	-93.51
+Woodstock city	44.01	-96.1
+Worthington city	43.63	-95.6
+Wrenshall city	46.62	-92.38
+Wright city	46.67	-93.01
+Wykoff city	43.71	-92.27
+Wyoming city	45.34	-92.98
+Zemple city	47.32	-93.78
+Zimmerman city	45.44	-93.6
+Zumbro Falls city	44.28	-92.43
+Zumbrota city	44.29	-92.67
